@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousabde.github.io/sitemap.html.gz
+Sitemap: https://ousabde.github.io/app/sitemap.html.gz
+Sitemap: https://ousabde.github.io/assets/sitemap.html.gz
+Sitemap: https://ousabde.github.io/css/sitemap.html.gz
+Sitemap: https://ousabde.github.io/includes/sitemap.html.gz
+Sitemap: https://ousabde.github.io/item/sitemap.html.gz
+Sitemap: https://ousabde.github.io/src/sitemap.html.gz
